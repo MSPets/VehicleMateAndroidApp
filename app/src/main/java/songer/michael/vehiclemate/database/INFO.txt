@@ -1,8 +1,0 @@
-
-Check vehicle
-Then Check MOT and Insurance
-
-Check MOT and Insurance has valid vehicle
-
-Can change uid to random string
-
