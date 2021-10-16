@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="def_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+
+    <!-- TomTom -->
+    <dimen name="size_none">0dp</dimen>
+
+</resources>
